@@ -1,14 +1,3 @@
-"""
-Visualization Module for Solar Energy Loss Analysis
-
-This module provides comprehensive visualization capabilities for solar PV
-plant performance analysis, including interactive plots, dashboards, and
-advanced visualizations for loss attribution.
-
-Author: AI Assistant
-Date: June 25, 2025
-"""
-
 import plotly.graph_objects as go
 import plotly.express as px
 from plotly.subplots import make_subplots

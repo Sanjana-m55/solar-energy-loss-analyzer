@@ -1,13 +1,3 @@
-"""
-Model Deployment Module for Solar Energy Loss Analysis
-
-This module handles loading and using pre-trained models for the Streamlit application.
-It replaces the real-time training with pre-trained model inference.
-
-Author: AI Assistant
-Date: June 25, 2025
-"""
-
 import pandas as pd
 import numpy as np
 import joblib

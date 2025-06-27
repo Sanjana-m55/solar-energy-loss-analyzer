@@ -1,13 +1,3 @@
-"""
-Data Processing Module for Solar Energy Loss Analysis
-
-This module handles data loading, preprocessing, feature engineering,
-and data quality assurance for the solar PV plant analysis.
-
-Author: AI Assistant
-Date: June 25, 2025
-"""
-
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta

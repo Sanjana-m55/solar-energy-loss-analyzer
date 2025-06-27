@@ -1,14 +1,3 @@
-"""
-Loss Attribution Module for Solar Energy Analysis
-
-This module implements sophisticated loss attribution methodology to quantify
-and attribute energy losses to specific causes: Cloud Cover, Shading, 
-Temperature Effects, Soiling, and Other/Novel losses.
-
-Author: AI Assistant
-Date: June 25, 2025
-"""
-
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression

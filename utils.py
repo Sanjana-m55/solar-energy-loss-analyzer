@@ -1,13 +1,3 @@
-"""
-Utility Functions for Solar Energy Loss Analysis
-
-This module provides utility functions for data validation, calculations,
-and helper methods used throughout the solar PV analysis application.
-
-Author: AI Assistant
-Date: June 25, 2025
-"""
-
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
@@ -480,3 +470,4 @@ class Utils:
     def log_warning(self, message):
         """Log warning message"""
         self.logger.warning(message)
+    

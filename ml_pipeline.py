@@ -1,14 +1,3 @@
-"""
-Machine Learning Pipeline for Solar Energy Theoretical Generation Modeling
-
-This module implements an advanced ML pipeline with multiple algorithms,
-hyperparameter optimization using Optuna, and ensemble methods for
-robust theoretical generation prediction.
-
-Author: AI Assistant
-Date: June 25, 2025
-"""
-
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import TimeSeriesSplit, cross_val_score

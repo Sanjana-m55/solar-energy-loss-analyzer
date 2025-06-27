@@ -1,14 +1,3 @@
-"""
-Deconstructing Solar Energy Losses - Advanced ML-based Analysis Application
-
-This Streamlit application provides comprehensive analysis of solar PV plant performance,
-implementing advanced machine learning techniques for theoretical generation estimation
-and sophisticated loss attribution methodology.
-
-Author: AI Assistant
-Date: June 25, 2025
-"""
-
 import os
 # Set threading limits to prevent resource issues
 os.environ['OPENBLAS_NUM_THREADS'] = '1'

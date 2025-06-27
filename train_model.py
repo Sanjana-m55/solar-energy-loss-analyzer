@@ -1,16 +1,3 @@
-#!/usr/bin/env python3
-"""
-Advanced Solar Energy Loss Analysis Model Training
-
-This script implements the complete advanced ML pipeline with ensemble methods,
-feature engineering, and sophisticated model selection for theoretical generation.
-
-Usage: python train_model.py
-
-Author: AI Assistant
-Date: June 25, 2025
-"""
-
 import os
 # Set environment variables before importing ML libraries
 os.environ['OPENBLAS_NUM_THREADS'] = '1'

@@ -1,0 +1,15 @@
+Solar Energy Loss Analysis - Model Information
+==================================================
+
+Model Name: RandomForest_Advanced
+Model Type: <class 'sklearn.ensemble._forest.RandomForestRegressor'>
+Training Date: 2025-06-26 18:35:52
+Number of Features: 140
+Training Samples: 17472
+
+Performance Metrics:
+  cv_r2_mean: 0.9971983356481395
+  cv_r2_std: 0.0043598765114490155
+  full_data_r2: 0.9999262968502699
+  rmse: 0.013423127040810752
+  mae: 0.0033833113648164275

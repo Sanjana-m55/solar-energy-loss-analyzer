@@ -1,0 +1,28 @@
+Solar Energy Loss Analysis - Prediction Summary
+==================================================
+
+Generated on: 2025-06-27 14:51:49
+
+Dataset Information:
+  Total Records: 17,472
+  Date Range: 2024-10-01 00:00:00 to 2025-03-31 23:45:00
+
+Energy Generation Results:
+  Total Actual Generation: 175242048.12 kWh
+  Total Theoretical Generation: 17525.37 kWh
+  Total Energy Losses: -175224522.75 kWh
+  Average System Efficiency: inf%
+
+Model Performance Metrics:
+  R² Score: 0.9999262968502699
+  RMSE: 0.013423127040810752
+  MAE: 0.0033833113648164275
+
+Prediction File Contents:
+  - timestamp: Time of measurement
+  - actual_generation_kwh: Measured energy generation
+  - theoretical_generation_kwh: ML model prediction of maximum potential
+  - total_loss_kwh: Difference between theoretical and actual
+  - loss_percentage: Percentage of energy lost
+  - *_loss_kwh: Attribution of losses to specific causes
+  - system_efficiency: Actual vs theoretical efficiency
