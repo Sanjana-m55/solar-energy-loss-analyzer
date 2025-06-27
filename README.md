@@ -3,7 +3,7 @@
 
 A comprehensive Streamlit application for analyzing solar PV plant performance using advanced machine learning techniques to quantify and attribute energy losses across multiple temporal and system levels.
 
-[![Watch Demo Video](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/V6-rwzS2IEU?si=HV3CvUrglIv5oh3o)
+[![Watch Demo Video](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/yZMfwE-iFUI?si=8LnWJWt8LB85RkJf)
 
 ## 📋 Overview
 
